@@ -1,0 +1,9 @@
+ѕлагин IDEA дл€ тестировани€ регул€рных выражений
+https://plugins.jetbrains.com/plugin/2917-regexptester
+
+
+ќнлайн-редактор регул€рных выражений 
+(можно также в гугле поискать по запросу regex tester java)
+http://myregexp.com
+
+
