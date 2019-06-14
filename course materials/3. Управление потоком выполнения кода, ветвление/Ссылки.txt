@@ -1,8 +1,0 @@
-Ссылки на инструменты, упомянутые в лекциях
-
-
-Драйвер для браузера Chrome http://software-testing.ru/lms/mod/url/view.php?id=41769
-
-Драйвер для браузера Internet Explorer http://software-testing.ru/lms/mod/url/view.php?id=41770
-
-В разделе "The Internet Explorer Driver Server" нужно взять 32-битный драйвер (даже если у Вас 64-битная операционная система)

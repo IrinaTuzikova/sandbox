@@ -1,5 +1,0 @@
-Шпаргалка по языку запросов CSS 
-https://saucelabs.com/resources/articles/selenium-tips-css-selectors
-
-Шпаргалка по языкам запросов CSS и XPath
-https://www.simple-talk.com/dotnet/.net-framework/xpath,-css,-dom-and-selenium-the-rosetta-stone/
