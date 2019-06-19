@@ -1,3 +1,10 @@
 apply plugin: 'java'
 apply plugin: 'application'
 mainClassName = "Barancev"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile("org.touchbit.shields4j:testng:1.0.0")}

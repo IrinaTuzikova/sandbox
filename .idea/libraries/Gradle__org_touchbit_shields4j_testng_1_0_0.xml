@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.touchbit.shields4j:testng:1.0.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Cannot resolve external dependency org.touchbit.shields4j:testng:1.0.0 because no repositories are defined." />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.touchbit.shields4j/testng/1.0.0/f37e6ea907e11a1fa143f173631eea1b813d9e93/testng-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.touchbit.shields4j/testng/1.0.0/4e989fb5225aac6d5450b14c7694204a5777a811/testng-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
